@@ -1,0 +1,2 @@
+# waves-cli
+Waves CLI
