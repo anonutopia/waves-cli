@@ -1,2 +1,2 @@
 # waves-cli
-Waves CLI
+Waves Node command line interface
